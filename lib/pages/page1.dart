@@ -10,7 +10,8 @@ class Page1 extends StatelessWidget {
           color: Color.fromARGB(255, 107, 4, 136),
         ),
       child: Center(
-        child: Text('Page 1'),
+        child: Text('Welcome To Trithena!!', style: TextStyle(color: Colors.white, fontSize: 30.0),),
+        
       ),
     );
 
